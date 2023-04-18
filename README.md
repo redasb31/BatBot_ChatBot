@@ -1,2 +1,2 @@
 # BatBot_ChatBot
-BATBOT is a chatbot created using OpenAI's GPT-3 API, Flask, and Bootstrap.
+BATBOT is a chatbot created using OpenAI's GPT-3 API, Flask, and Bootstrap. The chatbot can converse with users in natural language and respond to a wide range of queries. The repository contains the source code for the chatbot, including the Flask server, HTML templates, and JavaScript code for handling user input and displaying responses. The chatbot's conversation history is stored in a text file, which can be cleared at any time. The repository also includes instructions for setting up the chatbot and deploying it to a web server.
