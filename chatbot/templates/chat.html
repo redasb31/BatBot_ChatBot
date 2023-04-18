@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chat with Chatbot</title>
+  </head>
+  <body>
+    <h1>Chat with Chatbot</h1>
+    <div>
+      {% for message in conversation %}
+        <p>{{ message }}</p>
+      {% endfor %}
+    </div>
+    <form method="POST" action="/chat">
+      <input type="text" name="message">
+      <input type="submit" value="Send">
+    </form>
+  </body>
+</html>
