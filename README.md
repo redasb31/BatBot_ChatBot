@@ -3,7 +3,7 @@
 - You can sign up for an API key on the OpenAI website. Once you have an API key, you can clone this repository to your local machine and install the required dependencies by running the following commands: ``` git clone https://github.com/redasb31/BatBot_ChatBot.git cd chatbot``` 
 - You will also need to set your OpenAI API key as an environment variable by running the following command: ``` export OPENAI_API_KEY=<your-api-key> ``` 
  
-- ![Screenshot of the front-end](screenshot.png "BatBot ChatBot")
+- ![Screenshot of the front-end](screenshot1.png "BatBot ChatBot")
 ## Usage 
 - To start the BATBOT server, run the following command: ``` python app.py ``` 
 - This will start the server on port 5000. You can access the chatbot by navigating to `http://localhost:5000` in your web browser. 
